@@ -1,0 +1,62 @@
+{
+   "aries":{
+      "0":"prediction for aries today",
+      "1":"prediction for aries tomorrow",
+      "2":"prediction for aries day after tomorrow"
+   },
+   "taurus":{
+      "0":"prediction for taurus today",
+      "1":"prediction for taurus tomorrow",
+      "2":"prediction for taurus day after tomorrow"
+   },
+   "gemini":{
+      "0":"prediction for gemini today",
+      "1":"prediction for gemini tomorrow",
+      "2":"prediction for gemini day after tomorrow"
+   },
+   "cancer":{
+      "0":"prediction for cancer today",
+      "1":"prediction for cancer tomorrow",
+      "2":"prediction for cancer day after tomorrow"
+   },
+   "leo":{
+      "0":"prediction for leo today",
+      "1":"prediction for leo tomorrow",
+      "2":"prediction for leo day after tomorrow"
+   },
+   "virgo":{
+      "0":"prediction for virgo today",
+      "1":"prediction for virgo tomorrow",
+      "2":"prediction for virgo day after tomorrow"
+   },
+   "libra":{
+      "0":"prediction for libra today",
+      "1":"prediction for libra tomorrow",
+      "2":"prediction for libra day after tomorrow"
+   },
+   "scorpio":{
+      "0":"prediction for scorpio today",
+      "1":"prediction for scorpio tomorrow",
+      "2":"prediction for scorpio day after tomorrow"
+   },
+   "sagittarius":{
+      "0":"prediction for sagittarius today",
+      "1":"prediction for sagittarius tomorrow",
+      "2":"prediction for sagittarius day after tomorrow"
+   },
+   "capricorn":{
+      "0":"prediction for capricorn today",
+      "1":"prediction for capricorn tomorrow",
+      "2":"prediction for capricorn day after tomorrow"
+   },
+   "aquarius":{
+      "0":"prediction for aquarius today",
+      "1":"prediction for aquarius tomorrow",
+      "2":"prediction for aquarius day after tomorrow"
+   },
+   "pisces":{
+      "0":"prediction for pisces today",
+      "1":"prediction for pisces tomorrow",
+      "2":"prediction for pisces day after tomorrow"
+   }
+}
